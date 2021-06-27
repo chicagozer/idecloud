@@ -1,0 +1,41 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "3.9.2",
+    "@material-ui/icons": "3.0.2",
+    "antd": "3.13.6",
+    "axios": "0.18.0",
+    "brace": "0.11.1",
+    "downshift": "3.2.7",
+    "mdbreact": "4.13.0",
+    "react": "16.8.3",
+    "react-ace": "6.4.0",
+    "react-bootstrap": "1.0.0-beta.5",
+    "react-dom": "16.8.3",
+    "react-download-link": "latest",
+    "react-file-download": "0.3.5",
+    "react-filter-search": "1.0.8",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "2.0.3",
+    "react-simple-checkbox": "1.2.1",
+    "react-toastify": "5.0.0-rc.6",
+    "read-excel-file": "2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
